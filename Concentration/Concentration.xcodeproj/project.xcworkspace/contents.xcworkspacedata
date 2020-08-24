@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/zhengzeng/Developer/gitRepo/Concentration/Concentration/Card.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/zhengzeng/Developer/gitRepo/Concentration/Concentration/CellsView.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/zhengzeng/Developer/gitRepo/Concentration/Concentration/Concentration.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/zhengzeng/Developer/gitRepo/Concentration/Concentration/LabelView.swift">
+   </FileRef>
+   <FileRef
+      location = "self:Concentration.xcodeproj">
+   </FileRef>
+</Workspace>
