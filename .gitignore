@@ -1,0 +1,6 @@
+*.log
+*.xcuserstate
+*.plist
+.DS_Store
+.Podfile
+Pods/
